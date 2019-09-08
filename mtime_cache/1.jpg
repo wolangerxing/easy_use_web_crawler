@@ -1,0 +1,68 @@
+﻿
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="head">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>很抱歉，你要访问的页面不存在</title>
+<link rel="stylesheet" href="http://static1.mtime.cn/static/css/reg_08.css" type="text/css" media="all" />
+<link rel="stylesheet" href="http://static1.mtime.cn/static/css/2011/publicpack2014.css" type="text/css" media="all" />
+<style type="text/css">
+	#layout_main{ width:1000px; margin:100px auto 40px; font-size:14px; font:12px/150% helvetica,"微软雅黑","microsoft yahei",Verdana, Lucida,arial,sans-serif,"黑体"; box-shadow:0 0 3px #999;}
+	html,body{ background:#f7f7f7;}
+</style>
+</head>
+<body>
+<!--top Begin-->
+<div id="top"></div>
+<script type="text/javascript" src="http://static1.mtime.cn/static/utility/detail/index/"></script>
+<!--top End-->
+<div id="layout_main">
+	<div id="layout_contain">
+		<div class="clearfix pt6 wrap">
+			<div class="ele_outer o_v">
+				<div class="" style="height: 400px;">
+					<div class="reg_box_p2 reg_box_padding">
+						<h2 class="px14 lh30">很抱歉，你要访问的页面不存在</h2>
+						<div class="line_dot">
+						</div>
+						<ol class="list_num lh20 mt15 c_666">
+							<li>请检查你输入的网址是否正确。</li>
+							<li>如果你觉得是Mtime 的问题，请你到 <a href="http://group.mtime.com/help/" target="_blank">站务论坛</a> 提交问题，我们会尽快给你答复，谢谢！</li>
+							<li>直接搜索，找到你想要的内容：</li>
+						</ol>
+				    </div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--bottom Begin-->
+<div id="contentEnd"></div>
+<div id="bottom"></div>
+<!--bottom End-->
+<!--Script Begin-->
+<!--Common Script-->
+<script type="text/javascript">document.write( unescape( "%3Cscript src='http://static1.mtime.cn/static/js/systemall2014.js' type='text/javascript'%3E%3C/script%3E" ) );</script>
+<script type="text/javascript">
+<!--
+    $loadJs( "/js/2014/staticmanager.js", function() {
+		new StaticManager({ 
+		});
+    } );
+//-->
+</script>
+<script type="text/javascript">
+<!--
+var TIMEOUT = 10 * 1000;
+function redirectHome() {
+    $redirect( "http://www.mtime.com/" );
+}
+setTimeout( redirectHome, TIMEOUT );
+//-->
+</script>
+<!--Script End-->
+</body>
+</html>
