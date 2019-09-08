@@ -49,7 +49,7 @@ def start_crawler(browser):
     add_cookie(browser)
     browser.get(url)
     while True:
-        print('loop')
+        print('拿到更多数据')
         cards = browser.find_elements_by_css_selector('.Card.TopstoryItem')
         for card in cards:
             try:
@@ -72,7 +72,7 @@ def main():
     add_chrome_webdriver()
 
     o = Options()
-    o.add_argument("--headless")
+    # o.add_argument("--headless")
     browser = webdriver.Chrome(chrome_options=o)
     try:
         start_crawler(browser)
